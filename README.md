@@ -6,7 +6,6 @@ Para executar o projeto no terminal, digite:
 
 ```
 ./gradlew run 
-
 ```
 Após executar o comando acima, basta apenas abrir o seguinte endereço e visualizar a execução do projeto:
 
